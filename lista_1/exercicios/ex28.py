@@ -1,3 +1,5 @@
+'''
+??????
 def verificar_sudoku(tabuleiro):
     
     # Verifica cada linha
@@ -45,3 +47,4 @@ if verificar_sudoku(tabuleiro_sudoku):
     print("O tabuleiro de Sudoku é válido!")
 else:
     print("O tabuleiro de Sudoku NÃO é válido!")
+    '''
